@@ -1,1 +1,1 @@
-spa2.0
+treino single page application 2.0
