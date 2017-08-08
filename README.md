@@ -6,3 +6,7 @@ teste
 Java Script
 Angular JS
 >>>>>>> Stashed changes
+
+
+testando branch
+outro teste para a branch
