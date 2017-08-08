@@ -17,3 +17,5 @@ master
 Java Script
 Angular JS
 >>>>>>> Stashed changes
+
+teste do novo nome no GitKraken
